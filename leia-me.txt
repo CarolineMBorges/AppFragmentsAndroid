@@ -1,0 +1,2 @@
+Este projeto trabalha com fragments. 
+Fragments são importantes quando queremos reaproveitar alguns códigos e deixar a interface mais dinamica.
